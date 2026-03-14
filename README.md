@@ -1,8 +1,8 @@
 # Trabalho Prático - Semanas 3 e 4
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome:  David Aurélio Pedrosa
+- Matricula: 910749
 
 ## Print da tela da página criada (Curriculum Vitae)
 
