@@ -7,4 +7,4 @@
 ## Print da tela da página criada (Curriculum Vitae)
 
 `<Coloque aqui o print da tela do Curriculum Vitae>`
-![Site](images/site.png)
+![Site](public/img/site.png)
